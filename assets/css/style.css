@@ -1675,7 +1675,7 @@ Google map
 }
 
 .team-item:hover .team-image:after {
-  background: rgba(0, 0, 0, 0.6);
+  background: transparent;
 }
 
 .team-item:hover .team-detail {
